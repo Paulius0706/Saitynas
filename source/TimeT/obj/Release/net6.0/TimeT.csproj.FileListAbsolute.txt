@@ -68,12 +68,5 @@ C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saity
 C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\obj\Release\net6.0\TimeT.pdb
 C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\obj\Release\net6.0\TimeT.genruntimeconfig.cache
 C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\obj\Release\net6.0\ref\TimeT.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Npgsql.dll
 C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\Saitynas\source\TimeT\bin\Release\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
