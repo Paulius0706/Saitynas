@@ -40,9 +40,10 @@ namespace TimeT.Controllers
 
             // add choice between service user and client user
             await _userManager.AddToRoleAsync(newUser, UserRoles.ServiceUser);
+            return Ok();
             return CreatedAtAction(
-                $"api/login/{newUser.Id}",
-                new UserDto(newUser.Id, newUser.UserName, newUser.Email)
+                $"api/login/",
+                new LoginDto(newUser.UserName, registerUserDto.Password)
                 );
 
         }
