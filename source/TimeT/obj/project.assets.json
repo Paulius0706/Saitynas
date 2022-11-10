@@ -2514,11 +2514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\TimeT\\TimeT.csproj",
+      "projectUniqueName": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\source\\TimeT\\TimeT.csproj",
       "projectName": "TimeT",
-      "projectPath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\TimeT\\TimeT.csproj",
+      "projectPath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\source\\TimeT\\TimeT.csproj",
       "packagesPath": "C:\\Users\\Paulius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\TimeT\\obj\\",
+      "outputPath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\source\\TimeT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
