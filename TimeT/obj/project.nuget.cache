@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGr63YUW+gpn8twb5JXX+s1QBSrAkEDS+ZCuwkGXnl1J+HLcksEcuerB+Mc5LWPpFFxhYaDHynMBJwMfPx2+lw==",
+  "dgSpecHash": "EIfYOjWOwe2dxTSgHGAd702azJZpt0V9S200MeAXFKy7R3dKc38ojkeluzwOJ+T0FCKRY7Yy0z/rZjebqexjTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\TimeT\\TimeT\\TimeT.csproj",
+  "projectFilePath": "C:\\Users\\Paulius\\Desktop\\Saityno taikomosios programos modulis\\Git project\\Saitynas\\TimeT\\TimeT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paulius\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Paulius\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
