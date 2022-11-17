@@ -89,7 +89,7 @@ namespace TimeT.Controllers
         }
 
         [HttpPost(Name ="CreateRegistration")]
-        [Authorize(Roles = UserRoles.ClientUser)]
+        [Authorize(Roles = UserRoles.ClientUser + "," + UserRoles.ServiceUser)]
         public async Task<ActionResult<RegistrationDto>> Post(int serviceId,int timeId, RegistrationCreateDto registrationCreateDto)
         {
             var service = await _servicesRepository.Get(serviceId);
@@ -108,7 +108,7 @@ namespace TimeT.Controllers
         }
 
         [HttpPut("{registrationId}",Name ="UpdateRegistration")]
-        [Authorize(Roles = UserRoles.ClientUser)]
+        [Authorize(Roles = UserRoles.ClientUser + "," + UserRoles.ServiceUser)]
         public async Task<ActionResult<RegistrationDto>> Put(int serviceId, int timeId, int registrationId, RegistrationUpdateDto registrationUpdateDto)
         {
             var service = await _servicesRepository.Get(serviceId);
@@ -132,6 +132,7 @@ namespace TimeT.Controllers
         }
 
         [HttpDelete("{registrationId}", Name ="DeleteRegistration")]
+        [Authorize(Roles = UserRoles.ServiceUser)]
         public async Task<ActionResult<TimeDto>> Delete(int serviceId, int timeId, int registrationId)
         {
             var service = await _servicesRepository.Get(serviceId);
