@@ -6,8 +6,8 @@ namespace TimeT.Data.Entities
     {
         public int id { get; set; }
         public string name { get; set; }
-        public DateTime startDate { get; set; }
-        public DateTime endDate { get; set; }
+        public string startDate { get; set; }
+        public string endDate { get; set; }
         public string type { get; set; }
         public bool visibility { get; set; }
         public bool register1 { get; set; }

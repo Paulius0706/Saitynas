@@ -16,6 +16,7 @@ namespace TimeT.Data
         public RestContext(IConfiguration configuration)
         {
             _configuration = configuration;
+          
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

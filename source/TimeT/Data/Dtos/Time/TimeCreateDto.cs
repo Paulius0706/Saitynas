@@ -7,9 +7,9 @@ namespace TimeT.Data.Dtos.Time
         [Required]
         public string name { get; set; }
         [Required]
-        public DateTime startDate { get; set; }
+        public string startDate { get; set; }
         [Required]
-        public DateTime endDate { get; set; }
+        public string endDate { get; set; }
         [Required]
         public string type { get; set; }
         public bool visibility { get; set; }
